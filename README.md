@@ -1,6 +1,6 @@
 # my-app2
 
-My demo application
+My demo TEST application
 
 ## Running the application in dev mode
 
